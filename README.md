@@ -11,7 +11,7 @@ I am open to collaboration. You can contact me by <a href="mailto:andrewtanderse
 
 ![image](https://github.com/user-attachments/assets/8df6edba-35d2-4dd5-817d-0617aa26e463)
 
-![image]([https://github.com/user-attachments/assets/d4dc0568-fe16-42c0-aebb-db1dd65bbb0e](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))
+![image](https://github.com/user-attachments/assets/d4dc0568-fe16-42c0-aebb-db1dd65bbb0e)
 
 
 
