@@ -4,8 +4,8 @@ I am a full stack developer with a background in computer science, biology, and 
 ## Currently Workin On
 I am currently working on an facedetection application. When using the application users will be able to put in a URL of an image in the textfield and click the detect button to show all faces that are detected. There will also be a user sign-up and login button where users will be able to see how they rank in regards to other users. The dashboard will display the users username and their rank based on how many faces they have detected in pictures against other users.
 
-## My Stack
-![image](https://camo.githubusercontent.com/85c563a500551ff740f484d793bf8bb3dfa440982bda2b9473bfdeed5885dfc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667)
+** ## My Stack
+![image](https://camo.githubusercontent.com/85c563a500551ff740f484d793bf8bb3dfa440982bda2b9473bfdeed5885dfc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667) **
 
 
 ## Collaberation
