@@ -59,11 +59,10 @@ I am open to collaboration. You can contact me by <a href="mailto:andrewtanderse
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/7bcc0658-6727-40a5-95a3-4e92b7397b02)
-
 ![drew-andersen's Stats](https://github-readme-stats.vercel.app/api?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![image](https://github.com/user-attachments/assets/8df6edba-35d2-4dd5-817d-0617aa26e463)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![drew-andersen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
