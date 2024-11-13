@@ -1,7 +1,15 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=F70000&center=true&width=435&lines=Drew+Andersen" alt="Typing SVG" /></a>
 <p>
-  I am a full stack developer with a background in computer science, biology, and fitness. I have a life-long passion for learning. I'm knowledgable in user interface, testing, and debugging. I bring expertise in design, installation,, testing, and maintenance of web systems.
+👋 Hi, I'm a Full Stack Developer with a diverse background in Computer Science, Biology, and Health & Fitness.
+
+🔧 I specialize in building scalable, responsive, and user-friendly web applications using modern technologies like JavaScript, React, Node.js, Express, and MongoDB. My expertise spans both front-end and back-end development, allowing me to take projects from concept to deployment.
+
+💡 With my unique interdisciplinary knowledge, I bring a fresh perspective to solving problems. My passion for technology is complemented by my drive to create meaningful solutions that have a positive impact on both individuals and society.
+
+🌱 I'm always learning and exploring new technologies, tools, and frameworks to stay at the forefront of the tech world. 
+
+📫 Feel free to connect with me or explore my repositories for some of the projects I've worked on!
 </p>
 </div>
 
@@ -10,7 +18,7 @@
 <div align="center">
 <h3>Currently Workin On</h3>
 <p>
-  I am currently working on an facial detection application. When using the application users will be able to put in a URL of an image in the textfield and click the detect button to show all faces that are detected. There will also be a user sign-up and login button where users will be able to see how they rank in regards to other users. The dashboard will display the users username and their rank based on how many faces they have detected in pictures against other users.
+I am currently working on an facial detection application. When using the application users will be able to put in a URL of an image in the textfield and click the detect button to show all faces that are detected. There will also be a user sign-up and login button where users will be able to see how they rank in regards to other users. The dashboard will display the users username and their rank based on how many faces they have detected in pictures against other users.
 </p>
 </div>
 
@@ -57,14 +65,3 @@ I am open to collaboration. You can contact me by <a href="mailto:andrewtanderse
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
-
-<!--
-**Drew-Andersen/Drew-Andersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
