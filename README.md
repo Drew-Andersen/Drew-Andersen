@@ -5,12 +5,16 @@
 </p>
 </div>
 
+---
+
 <div align="center">
 <h3>Currently Workin On</h3>
 <p>
   I am currently working on an facedetection application. When using the application users will be able to put in a URL of an image in the textfield and click the detect button to show all faces that are detected. There will also be a user sign-up and login button where users will be able to see how they rank in regards to other users. The dashboard will display the users username and their rank based on how many faces they have detected in pictures against other users.
 </p>
 </div>
+
+---
 
 <div align="center">
 <h3>My Stack</h3>
@@ -33,6 +37,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars" width="40" height="40" />
 </p>
 </div>
+
+---
 
 ## Collaberation
 I am open to collaboration. You can contact me by <a href="mailto:andrewtandersen@gmail.com">email</a>.
