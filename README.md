@@ -10,7 +10,7 @@
 <div align="center">
 <h3>Currently Workin On</h3>
 <p>
-  I am currently working on an facedetection application. When using the application users will be able to put in a URL of an image in the textfield and click the detect button to show all faces that are detected. There will also be a user sign-up and login button where users will be able to see how they rank in regards to other users. The dashboard will display the users username and their rank based on how many faces they have detected in pictures against other users.
+  I am currently working on an facial detection application. When using the application users will be able to put in a URL of an image in the textfield and click the detect button to show all faces that are detected. There will also be a user sign-up and login button where users will be able to see how they rank in regards to other users. The dashboard will display the users username and their rank based on how many faces they have detected in pictures against other users.
 </p>
 </div>
 
