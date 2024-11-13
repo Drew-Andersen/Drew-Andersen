@@ -49,17 +49,11 @@ I am open to collaboration. You can contact me by <a href="mailto:andrewtanderse
 
 ---
 
-<div align="left">
 ![image](https://github.com/user-attachments/assets/7bcc0658-6727-40a5-95a3-4e92b7397b02)
-</div>
 
-<div align="center">
 ![image](https://github.com/user-attachments/assets/8df6edba-35d2-4dd5-817d-0617aa26e463)
-</div>
 
-<div align="right">
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
 
 
 <!--
