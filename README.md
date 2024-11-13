@@ -1,8 +1,15 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
 # Drew Andersen
 I am a full stack developer with a background in computer science, biology, and fitness. I have a life-long passion for learning. I'm knowledgable in user interface, testing, and debugging. I bring expertise in design, installation,, testing, and maintenance of web systems.
 
 ## Currently Workin On
-I am currently working on building a web application for Low Country Tuning, a Toyota truck tuning business.
+I am currently working on an facedetection application. When using the application users will be able to put in a URL of an image in the textfield and click the detect button to show all faces that are detected. There will also be a user sign-up and login button where users will be able to see how they rank in regards to other users. The dashboard will display the users username and their rank based on how many faces they have detected in pictures against other users.
+
+## My Stack
+<i class="fa-brands fa-js"></i>
 
 ## Collaberation
 I am open to collaboration. You can contact me by <a href="mailto:andrewtandersen@gmail.com">email</a>.
