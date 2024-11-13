@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Drew Andersen</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=F70000&center=true&width=435&lines=Drew+Andersen" alt="Typing SVG" /></a>
 <p>
   I am a full stack developer with a background in computer science, biology, and fitness. I have a life-long passion for learning. I'm knowledgable in user interface, testing, and debugging. I bring expertise in design, installation,, testing, and maintenance of web systems.
 </p>
