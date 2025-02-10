@@ -63,6 +63,5 @@ I am open to collaboration. You can contact me by <a href="mailto:andrewtanderse
 
 [![GitHub Streak](https://streak-stats.vercel.app?user=drew-andersen&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
-![drew-andersen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
