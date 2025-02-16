@@ -66,7 +66,7 @@ I am open to collaboration. You can contact me by <a href="mailto:andrewtanderse
 
 ![drew-andersen's Stats](https://github-readme-stats.vercel.app/api?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=drew-andersen&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+![drew-andersen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=drew-andersen&theme=vue-dark&hide_border=true)
 
 ![drew-andersen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drew-andersen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
