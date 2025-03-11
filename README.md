@@ -18,7 +18,7 @@
 <div align="center">
 <h3>Currently Workin On</h3>
 <p>
-I am currently working on a web application that is similar to myfitnesspal, in that you will be able to track what you have eaten / or plan what you want to eat for the day. Users will be able to login/signup to use the application. Once signed in users will be brought to their dashboard where they will be able to see how many calories they have left for the day. The user will be able to open the diary up to track foods and see how they measure to their caloric, carbohydrate, fat, and protein goals.
+I am currently working on learning Angular and TypeScript. There will be some projects coming soon using my newly learned languages/frameworks.
 </p>
 </div>
 
