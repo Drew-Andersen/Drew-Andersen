@@ -18,7 +18,7 @@
 <div align="center">
 <h3>Currently Workin On</h3>
 <p>
-I am currently working on learning Angular and TypeScript. There will be some projects coming soon using my newly learned languages/frameworks.
+I am currently enrolled in The AI Engineer Course 2026: The Complete AI Engineer Bootcamp through Udemy. I have made it through the NLP modules and am now starting the LLM modules.
 </p>
 </div>
 
