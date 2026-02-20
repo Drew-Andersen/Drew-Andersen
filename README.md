@@ -18,7 +18,7 @@
 <div align="center">
 <h3>Currently Workin On</h3>
 <p>
-I am currently enrolled in The AI Engineer Course 2026: The Complete AI Engineer Bootcamp through Udemy. I have made it through the NLP modules and am now starting the LLM modules.
+I am currently enrolled in The AI Engineer Course 2026: The Complete AI Engineer Bootcamp through Udemy. I have made it through the NLP, LLM, LangChain, and am now working on LangGraph section. During this course I am also working on creating an AI Question and Answering Assistant.
 </p>
 </div>
 
