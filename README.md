@@ -1,6 +1,8 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=F70000&center=true&width=435&lines=Drew+Andersen" alt="Typing SVG" /></a>
-<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=F70000&center=true&width=435&lines=Drew+Andersen" alt="Typing SVG" /></a>
+</div>
+
+## About Me
 👋 Hi, I’m Andrew — a Software Engineer focused on AI-powered applications, intelligent search systems, and scalable backend architecture.
   
 🔧 I build scalable, production-ready applications across the stack using React, Node.js, Python, Django, PostgreSQL, and MongoDB. I’m especially focused on backend systems, search infrastructure, and data-driven applications.
@@ -12,19 +14,14 @@
 🚀 Currently deepening my expertise in AI systems, distributed architectures, and applied machine learning.
 
 📫 Explore my repositories to see projects ranging from full-stack web applications to AI-driven tools.
-</p>
-</div>
 
----
 
-<div align="center">
-<h3>Currently Building</h3>
-<p>
+## Currently Building
+
 • AI-powered Question & Answering Assistant (RAG-based)<br/>
 • LangGraph workflows for stateful LLM applications<br/>
 • Deepening expertise in distributed systems and applied ML
-</p>
-</div>
+
 
 ---
 
@@ -77,14 +74,10 @@
 RAG-based application built with Python, LangChain, LangGraph, and OpenAI.  
 Implements document ingestion, vector embeddings, retrieval pipelines, and stateful conversational workflows. Designed for scalable knowledge querying and intelligent context management.
 
----
 
-<div align="center">
-<h3>Collaboration</h3>
-<p>
+## Collaboration
+
 I am open to collaboration. You can contact me by <a href="mailto:andrewtandersen@gmail.com">email</a>.
-</p>
-</div>
 
 ---
 
