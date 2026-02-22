@@ -25,8 +25,8 @@
 
 ---
 
+## My Stack
 <div align="center">
-<h3>My Stack</h3>
 
 <p>
 <!-- Frontend -->
@@ -65,8 +65,6 @@
 
 </p>
 </div>
-
----
 
 ## 🚀 Featured Projects
 
