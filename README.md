@@ -3,11 +3,11 @@
 </div>
 
 ## About Me
-👋 Hi, I’m Andrew — a Software Engineer focused on AI-powered applications, intelligent search systems, and scalable backend architecture.
+👋 Hi, I’m a Software Engineer focused on AI-powered applications, intelligent search systems, and scalable backend architecture.
   
 🔧 I build scalable, production-ready applications across the stack using React, Node.js, Python, Django, PostgreSQL, and MongoDB. I’m especially focused on backend systems, search infrastructure, and data-driven applications.
 
-🤖 Recently, I’ve been developing LLM-powered applications using OpenAI, LangChain, and LangGraph — building RAG systems, document Q&A tools, and intelligent search interfaces powered by Elasticsearch and Azure.
+🤖 Recently, I’ve been developing LLM-powered applications using OpenAI, LangChain, and LangGraph — building RAG systems, document Q&A tools, and intelligent search interfaces.
 
 🧠 With a background in Biology and experience in analytical problem-solving, I approach software engineering with a systems mindset — breaking down complex problems into structured, scalable solutions.
 
