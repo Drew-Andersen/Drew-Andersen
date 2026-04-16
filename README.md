@@ -18,10 +18,7 @@
 
 ## Currently Building
 
-• AI-powered Question & Answering Assistant (RAG-based)<br/>
-• LangGraph workflows for stateful LLM applications<br/>
-• Deepening expertise in distributed systems and applied ML
-
+AI-Fitness Coach an AI powered workout application built to help users track their workout progression and later track their meals all in one place.
 
 ---
 
